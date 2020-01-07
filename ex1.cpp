@@ -10,5 +10,6 @@ using namespace std;
 int main()
 {
 	cout<<"hello\n";
+	cout<<sizeof(short)<<'\n';
 	return 0;
 }
